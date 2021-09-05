@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Afghanistan: UK's Kabul evacuation ends today, says military",
+            "description": "It is \"heartbreaking\" not to have been able to evacuate everyone, says the head of the armed forces.",
+            "url": "http://www.bbc.co.uk/news/uk-58367225",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/447B/production/_120313571_hi069913078.jpg",
+            "publishedAt": "2021-08-28T08:22:31.6593353Z",
+            "content": "The UK's evacuation of civilians from Afghanistan will end on Saturday, Chief of the Defence Staff Gen Sir Nick Carter has said.\r\nHe told Radio 4's Today programme it was \"heartbreaking\" that they ha… [+1641 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Afghanistan: US says IS-K planner killed in drone strike",
+            "description": "Evacuations are winding down at Kabul airport, amid \"credible\" threats of more militant attacks.",
+            "url": "http://www.bbc.co.uk/news/live/world-58279900",
+            "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.2.0/bbc_news_logo.png",
+            "publishedAt": "2021-08-28T08:22:29.5192435Z",
+            "content": "Shahrbanoo Sadat is pictured here, left, at the Turin film festival in 2016Image caption: Shahrbanoo Sadat is pictured here, left, at the Turin film festival in 2016\r\nAward-winning Afghan filmmaker S… [+1340 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Covid: Delta patients twice as likely to need hospital care",
+            "description": "Get double-jabbed to reduce this risk, advise experts who have studied different variants of the virus.",
+            "url": "http://www.bbc.co.uk/news/health-58354342",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/81BB/production/_119911233_gettyimages-1255592872.jpg",
+            "publishedAt": "2021-08-28T05:37:23.1315511Z",
+            "content": "People are twice as likely to need hospital care if they are sick with Delta Covid, rather than the Alpha, or Kent, variant that was once common in the UK, data from England suggests. \r\nExperts say t… [+2199 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Canada election: Justin Trudeau rally cancelled after angry protests",
+            "description": "Jeering crowds force the Canadian prime minister to call off an election campaign event.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-58364742",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/161FD/production/_120312609_trudeau.jpg",
+            "publishedAt": "2021-08-28T04:52:21.0393067Z",
+            "content": "image captionThe Canadian prime minister faced protesters as he campaigned in Ontario\r\nJustin Trudeau has been forced to cancel an election rally after a crowd of angry protesters ambushed the event.… [+2012 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Government to ban single-use plastic cutlery",
+            "description": "Plastic plates and polystyrene cups will also be banned in England in what ministers call a \"war on plastic\".",
+            "url": "http://www.bbc.co.uk/news/uk-politics-58360064",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10DED/production/_120310196_gettyimages-685927248-1.jpg",
+            "publishedAt": "2021-08-28T00:52:24.2769245Z",
+            "content": "By Nick EardleyBBC political correspondent\r\nThe government has announced plans to ban single-use plastic cutlery, plates and polystyrene cups in England as part of what it calls a \"war on plastic\".\r\n… [+3324 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Robert F Kennedy assassin Sirhan Sirhan granted prison release",
+            "description": "A parole board calls for Sirhan Sirhan's release, but the decision now goes to the state's governor.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-58364572",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6CA3/production/_120311872_gettyimages-3364185.jpg",
+            "publishedAt": "2021-08-27T22:22:21.099172Z",
+            "content": "image captionSirhan Sirhan, pictured in a 2008 prison mugshot\r\nA Californian parole board has voted to grant prison release to the murderer of Democratic 1968 presidential candidate Robert F Kennedy … [+1460 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Getting plane out of Kabul was 'happiest moment'",
+            "description": "Former Afghan interpreter Burhan and his family are now in the UK, after begging for help to escape.",
+            "url": "http://www.bbc.co.uk/news/uk-58355250",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B3EC/production/_120306064_p09td4kt.jpg",
+            "publishedAt": "2021-08-27T22:07:19.6985494Z",
+            "content": "A former Afghan interpreter who worked for the British Army has described getting on a UK military plane out of Afghanistan as the \"happiest moment of my life\".\r\nBurhan and his family had begged the … [+233 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Covid origin: US spy agencies publish 'inconclusive' report",
+            "description": "The office that oversees US spy agencies could not establish how the coronavirus pandemic began.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-58361211",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/67D4/production/_120308562_gettyimages-1232339958.jpg",
+            "publishedAt": "2021-08-27T21:07:22.3679035Z",
+            "content": "image captionA sick child in Houston, Texas, is taken to hospital after testing positive for Covid\r\nThe US intelligence community has been unable to determine the origins of Covid-19, and is split on… [+2625 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Greenland island is world's northernmost island - scientists",
+            "description": "They say a tiny island off Greenland's coast was discovered by luck during a recent expedition.",
+            "url": "http://www.bbc.co.uk/news/world-europe-58362752",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/127B5/production/_120310757_island.png",
+            "publishedAt": "2021-08-27T20:52:25.1109193Z",
+            "content": "image sourceMorten Rasch, University of Copenhagen\r\nimage captionThe 60X30m island is the closest point of land to the North Pole, the scientists say\r\nA group of scientists say they have discovered b… [+2301 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC Sport",
+            "title": "Man Utd 'reach agreement' to re-sign Ronaldo",
+            "description": "Manchester United confirm they have reached an agreement to re-sign Cristiano Ronaldo from Juventus.",
+            "url": "http://www.bbc.co.uk/sport/football/58359561",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/172BE/production/_120301949_hi069708190.jpg",
+            "publishedAt": "2021-08-27T20:37:42.0196781Z",
+            "content": "Manchester United have confirmed they have reached an agreement to re-sign Cristiano Ronaldo from Juventus.\r\nUnited have agreed to pay £12.8m for the 36-year-old, with the deal subject to personal te… [+5988 chars]"
+        }
+    ]
+}
