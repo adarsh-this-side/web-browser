@@ -34,19 +34,6 @@
                 "name": "BBC News"
             },
             "author": "BBC News",
-            "title": "Covid: Delta patients twice as likely to need hospital care",
-            "description": "Get double-jabbed to reduce this risk, advise experts who have studied different variants of the virus.",
-            "url": "http://www.bbc.co.uk/news/health-58354342",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/81BB/production/_119911233_gettyimages-1255592872.jpg",
-            "publishedAt": "2021-08-28T05:37:23.1315511Z",
-            "content": "People are twice as likely to need hospital care if they are sick with Delta Covid, rather than the Alpha, or Kent, variant that was once common in the UK, data from England suggests. \r\nExperts say t… [+2199 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "BBC News",
             "title": "Canada election: Justin Trudeau rally cancelled after angry protests",
             "description": "Jeering crowds force the Canadian prime minister to call off an election campaign event.",
             "url": "http://www.bbc.co.uk/news/world-us-canada-58364742",
@@ -92,19 +79,6 @@
             "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B3EC/production/_120306064_p09td4kt.jpg",
             "publishedAt": "2021-08-27T22:07:19.6985494Z",
             "content": "A former Afghan interpreter who worked for the British Army has described getting on a UK military plane out of Afghanistan as the \"happiest moment of my life\".\r\nBurhan and his family had begged the … [+233 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "BBC News",
-            "title": "Covid origin: US spy agencies publish 'inconclusive' report",
-            "description": "The office that oversees US spy agencies could not establish how the coronavirus pandemic began.",
-            "url": "http://www.bbc.co.uk/news/world-us-canada-58361211",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/67D4/production/_120308562_gettyimages-1232339958.jpg",
-            "publishedAt": "2021-08-27T21:07:22.3679035Z",
-            "content": "image captionA sick child in Houston, Texas, is taken to hospital after testing positive for Covid\r\nThe US intelligence community has been unable to determine the origins of Covid-19, and is split on… [+2625 chars]"
         },
         {
             "source": {
