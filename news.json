@@ -2,84 +2,18 @@
     "status": "ok",
     "totalResults": 10,
     "articles": [
-        
         {
             "source": {
                 "id": "bbc-news",
                 "name": "BBC News"
             },
             "author": "BBC News",
-            "title": "Government to ban single-use plastic cutlery",
-            "description": "Plastic plates and polystyrene cups will also be banned in England in what ministers call a \"war on plastic\".",
-            "url": "http://www.bbc.co.uk/news/uk-politics-58360064",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10DED/production/_120310196_gettyimages-685927248-1.jpg",
-            "publishedAt": "2021-08-28T00:52:24.2769245Z",
-            "content": "By Nick EardleyBBC political correspondent\r\nThe government has announced plans to ban single-use plastic cutlery, plates and polystyrene cups in England as part of what it calls a \"war on plastic\".\r\n… [+3324 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "BBC News",
-            "title": "Robert F Kennedy assassin Sirhan Sirhan granted prison release",
-            "description": "A parole board calls for Sirhan Sirhan's release, but the decision now goes to the state's governor.",
-            "url": "http://www.bbc.co.uk/news/world-us-canada-58364572",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/6CA3/production/_120311872_gettyimages-3364185.jpg",
-            "publishedAt": "2021-08-27T22:22:21.099172Z",
-            "content": "image captionSirhan Sirhan, pictured in a 2008 prison mugshot\r\nA Californian parole board has voted to grant prison release to the murderer of Democratic 1968 presidential candidate Robert F Kennedy … [+1460 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "BBC News",
-            "title": "Afghanistan: UK's Kabul evacuation ends today, says military",
-            "description": "It is \"heartbreaking\" not to have been able to evacuate everyone, says the head of the armed forces.",
-            "url": "https://play.google.com/store/apps/details?id=com.trendbrains.newsroom",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/447B/production/_120313571_hi069913078.jpg",
-            "publishedAt": "2021-08-28T08:22:31.6593353Z",
-            "content": "The UK's evacuation of civilians from Afghanistan will end on Saturday, Chief of the Defence Staff Gen Sir Nick Carter has said.\r\nHe told Radio 4's Today programme it was \"heartbreaking\" that they ha… [+1641 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "BBC News",
-            "title": "Canada election: Justin Trudeau rally cancelled after angry protests",
-            "description": "Jeering crowds force the Canadian prime minister to call off an election campaign event.",
-            "url": "http://www.bbc.co.uk/news/world-us-canada-58364742",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/161FD/production/_120312609_trudeau.jpg",
-            "publishedAt": "2021-08-28T04:52:21.0393067Z",
-            "content": "image captionThe Canadian prime minister faced protesters as he campaigned in Ontario\r\nJustin Trudeau has been forced to cancel an election rally after a crowd of angry protesters ambushed the event.… [+2012 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "BBC News",
-            "title": "Getting plane out of Kabul was 'happiest moment'",
-            "description": "Former Afghan interpreter Burhan and his family are now in the UK, after begging for help to escape.",
-            "url": "http://www.bbc.co.uk/news/uk-58355250",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B3EC/production/_120306064_p09td4kt.jpg",
-            "publishedAt": "2021-08-27T22:07:19.6985494Z",
-            "content": "A former Afghan interpreter who worked for the British Army has described getting on a UK military plane out of Afghanistan as the \"happiest moment of my life\".\r\nBurhan and his family had begged the … [+233 chars]"
-        },
-        {
-            "source": {
-                "id": "bbc-news",
-                "name": "BBC News"
-            },
-            "author": "BBC News",
-            "title": "Greenland island is world's northernmost island - scientists",
-            "description": "They say a tiny island off Greenland's coast was discovered by luck during a recent expedition.",
-            "url": "http://www.bbc.co.uk/news/world-europe-58362752",
-            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/127B5/production/_120310757_island.png",
-            "publishedAt": "2021-08-27T20:52:25.1109193Z",
-            "content": "image sourceMorten Rasch, University of Copenhagen\r\nimage captionThe 60X30m island is the closest point of land to the North Pole, the scientists say\r\nA group of scientists say they have discovered b… [+2301 chars]"
+            "title": "Switzerland votes on same-sex marriage",
+            "description": "Voters in Switzerland go to the polls to decide whether to allow same-sex marriage.",
+            "url": "http://www.bbc.co.uk/news/world-europe-58658515",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/104C6/production/_120685766_p09wx5h5.jpg",
+            "publishedAt": "2021-09-26T07:22:24.5985035Z",
+            "content": "People in Switzerland are voting to decide whether to allow same-sex marriage. Switzerland is one of the last countries in western Europe not to recognise same-sex marriage, and supporters say the ch… [+193 chars]"
         },
         {
             "source": {
@@ -87,12 +21,116 @@
                 "name": "BBC News"
             },
             "author": "BBC Sport",
-            "title": "Man Utd 'reach agreement' to re-sign Ronaldo",
-            "description": "Manchester United confirm they have reached an agreement to re-sign Cristiano Ronaldo from Juventus.",
-            "url": "http://www.bbc.co.uk/sport/football/58359561",
-            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/172BE/production/_120301949_hi069708190.jpg",
-            "publishedAt": "2021-08-27T20:37:42.0196781Z",
-            "content": "Manchester United have confirmed they have reached an agreement to re-sign Cristiano Ronaldo from Juventus.\r\nUnited have agreed to pay £12.8m for the 36-year-old, with the deal subject to personal te… [+5988 chars]"
+            "title": "'I'm not a sulker - I will bounce back'",
+            "description": "Anthony Joshua says he \"is not a sulker\" and \"will bounce back\" after his world heavyweight defeat by Oleksandr Usyk.",
+            "url": "http://www.bbc.co.uk/sport/boxing/58678543",
+            "urlToImage": "https://ichef.bbci.co.uk/live-experience/cps/624/cpsprodpb/16DE5/production/_120696639_gettyimages-1342506643.jpg",
+            "publishedAt": "2021-09-26T07:22:22.7239696Z",
+            "content": "Anthony Joshua suffered the second defeat of his career as he lost to Oleksandr Usyk\r\nAnthony Joshua says he is \"a different animal, not a sulker\" and \"will bounce back\" from losing his world heavywe… [+5974 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Amtrak train derails in Montana, killing three and injuring dozens",
+            "description": "Dozens of people are injured after several carriages of the Amtrak train came off the tracks.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-58696143",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C84F/production/_120697215_4617df5c-c6b5-43a7-8194-bd21aab8d9c1.jpg",
+            "publishedAt": "2021-09-26T04:52:19.7116012Z",
+            "content": "image captionImages from the scene showed some carriages on their sides\r\nAt least three people have been killed and 50 others injured after a train derailment in the US state of Montana. \r\nMultiple c… [+438 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Hauliers and poultry workers to get temporary visas",
+            "description": "Some 10,500 foreign lorry drivers and poultry workers will be able to work in the UK until Christmas Eve.",
+            "url": "http://www.bbc.co.uk/news/business-58694004",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/B9BD/production/_120694574_fueltanker.png",
+            "publishedAt": "2021-09-26T03:52:19.54883Z",
+            "content": "By Alex TherrienBBC News\r\nUp to 10,500 lorry drivers and poultry workers can receive temporary UK visas as the government seeks to limit disruption in the run-up to Christmas.\r\nThe government confirm… [+4945 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Rwanda genocide 'kingpin' Théoneste Bagosora dies in prison",
+            "description": "Bagosora was serving a 35-year sentence for his role in the massacre of 800,000 people.",
+            "url": "http://www.bbc.co.uk/news/world-africa-58695094",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/30B5/production/_120696421_gettyimages-74347705.jpg",
+            "publishedAt": "2021-09-25T23:37:33.0295734Z",
+            "content": "image captionThéoneste Bagosora was serving a 35-year sentence for his role in the 1994 genocide (file photo)\r\nA former Rwandan army colonel convicted for his role in the massacre of some 800,000 peo… [+1802 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "German elections: Voters decide who will take charge after Merkel",
+            "description": "The election race could barely be tighter as voters decide who will run Europe's biggest economy.",
+            "url": "http://www.bbc.co.uk/news/world-europe-58690645",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/4F87/production/_120695302_merkellasch.jpg",
+            "publishedAt": "2021-09-25T23:07:22.6165681Z",
+            "content": "By Paul KirbyBBC News, Berlin\r\nimage source, Getty Images\r\nimage captionAngela Merkel has appeared at rallies alongside Armin Laschet in the last week of the campaign\r\nThe fight to succeed popular, l… [+4315 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Global Citizen Live: Billie Eilish and Ed Sheeran feature in 24-hour concert",
+            "description": "The Global Citizen: Live festival will see performances from more than 60 artists in six continents.",
+            "url": "http://www.bbc.co.uk/news/world-58694304",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/147CF/production/_120691938_j-lo.jpg",
+            "publishedAt": "2021-09-25T19:22:23.3159037Z",
+            "content": "image source, Getty Images\r\nimage captionPop star Jennifer Lopez is among those set to perform at the Global Citizen concert.\r\nStars including Billie Eilish and Ed Sheeran are set to perform at a 24-… [+2734 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "'EU and UK will have to work together as friends'",
+            "description": "Olaf Scholz, frontrunner to become German chancellor, says he wants a good relationship with the UK.",
+            "url": "http://www.bbc.co.uk/news/world-europe-58693538",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13645/production/_120692497_p09wz0t4.jpg",
+            "publishedAt": "2021-09-25T16:37:25.5595904Z",
+            "content": "German politicians have been making their final appeals to voters ahead of Sunday's election. \r\nThe frontrunner to succeed Angela Merkel, Olaf Scholz of the SPD, spoke to the BBC following a town hal… [+103 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Afghanistan: Taliban hang bodies as warning in city of Herat, say reports",
+            "description": "The alleged kidnappers are reportedly hung in public, a day after a warning executions would resume.",
+            "url": "http://www.bbc.co.uk/news/world-asia-58691824",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/17AF1/production/_120690079_mediaitem120690078.jpg",
+            "publishedAt": "2021-09-25T13:37:25.0941469Z",
+            "content": "image captionTaliban fighters - pictured here in Herat on 10 September - have been patrolling the centre of the city\r\nThe Taliban are said to have have hung the dead bodies of four alleged kidnappers… [+2328 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "BBC News",
+            "title": "Canadians Michael Spavor and Michael Kovrig freed by China arrive home",
+            "description": "The two were released after a Huawei executive was freed in Canada, ending a three-year diplomatic row.",
+            "url": "http://www.bbc.co.uk/news/world-us-canada-58690974",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/10028/production/_104767556_composite.png",
+            "publishedAt": "2021-09-25T13:37:22.0792723Z",
+            "content": "image captionMichael Kovrig (r) and Michael Spavor have been held since 2018\r\nTwo Canadians freed by China after nearly three years in custody have arrived home, ending a diplomatic row between Beiji… [+3821 chars]"
         }
     ]
 }
